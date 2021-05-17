@@ -1,5 +1,5 @@
 # TravelRequests-SPFx-component
-Travel Request cannot be made by a person,which results in conflict`(Build :mechanical_arm: using SPFx component)`
+Travel Request cannot be made by a person,which results in conflict (Build :mechanical_arm: using **SPFx component**)
 
 - Create a list with name “TravelRequests” in Travel subsite
 - Create a directory for SPFx solution
